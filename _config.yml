@@ -3,13 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Derk Slagman
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Hello! This is my personal website where I will try to post new Salesforce, .NET and Angular (2/4) related blogs. Mainly to tackle specific 
+  technical issues that I encounter during my daily development adventures that are not yet documented online. January 2018 I will start my 
+  new life as a freelance Salesforce developer. Wish me luck!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/10948138?s=400&u=af4aadb7d46a0cffd9922171c2423fdfad63881d&v=4
 
 #
 # Flags below are optional
@@ -18,16 +20,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:  derk.slagman@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: dslagman
   instagram:
-  linkedin:
+  linkedin: derkslagman
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: Derk87
+  stackoverflow: /users/8691541/dslagman
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -41,7 +43,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://www.derkslagman.nl
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
