@@ -8,10 +8,10 @@ Hallo! Ik ben Derk Slagman en wil me graag aan u voorstellen als professioneel S
 
 ### Meer informatie
 
-In mijn vrije tijd ben ik, naast het genieten van mijn kinderen, graag bezig met het ontdekken van nieuwe (web) technieken en ontwikkelen van kleine applicaties om mij als ontwikkelaar te blijven ontwikkelen.
+In mijn vrije tijd ben ik, naast het genieten van mijn kinderen, graag bezig met het ontdekken van nieuwe (web) technieken en ontwikkelen van kleine applicaties om te kunnen blijven leren.
 
 Meer informatie en blogs volgen!
 
-### Neen contact op
+### Neem contact op
 
 [derk.slagman@gmail.com](mailto:derk.slagman@gmail.com)
