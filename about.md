@@ -11,6 +11,6 @@ In mijn vrije tijd ben ik, naast het genieten van mijn kinderen, graag bezig met
 
 Meer informatie en blogs volgen!
 
-### Neen contact op
+### Neem contact op
 
 [derk.slagman@gmail.com](mailto:derk.slagman@gmail.com)
