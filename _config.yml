@@ -76,8 +76,12 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+<<<<<<< HEAD
  # - jekyll-redirect-from # For redirecting to over-mij pagina
   
+=======
+
+>>>>>>> parent of 81eca47... added jekyll redirect plugin
 # Exclude these files from your production _site
 exclude:
   - Gemfile

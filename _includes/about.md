@@ -1,5 +1,9 @@
 ---
 title: Over mij
+<<<<<<< HEAD:_includes/about.md
+=======
+permalink: /over-mij/
+>>>>>>> parent of 81eca47... added jekyll redirect plugin:about.md
 ---
 
 Hallo! Ik ben Derk Slagman en wil me graag aan u voorstellen als professioneel Salesforce en .NET software engineer. Ik ben afgestuurd als Technisch Bedrijfskundige en ben gecertificeerd Salesforce Developer en Microsoft Certified Solution Developer. De afgelopen jaren heb ik veel ervaring opgedaan met het ontwikkelen van nieuwe, klant specifieke, features op het Salesforce platform tijdens implementatie trajecten, maar ook bij bestaande implementaties. Vanaf klant vraag tot oplevering, zowel alleen als in team verband. Hierbij helpt mijn achtergrond als technisch bedrijfskundige mij bewust te blijven van de klant processen die gebruik maken van de oplossingen die ik ontwikkel. 
