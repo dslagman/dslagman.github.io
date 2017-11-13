@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% capture about %}{% include about-content.md %}{% endcapture %}
+{{ about  | markdownify }}
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
