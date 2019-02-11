@@ -18,14 +18,15 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
-                type: "POST",
-                data: {
+                url: "https://prod-53.westeurope.logic.azure.com/workflows/87d7a1482a9243ee8305f14074b44fd7/triggers/manual/paths/invoke/TestingFlows?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Uzy62qc9GK8c_pB24IWLQ-8fJOzVBNgyGhs-p4DwP88",
+				type: "POST",
+				contentType: "application/json; charset=utf-8",
+                data: JSON.stringify({
                     name: name,
                     phone: phone,
                     email: email,
                     message: message
-                },
+                }),
                 cache: false,
                 success: function() {
                     // Success message
